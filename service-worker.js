@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/william-setstatespear/precache-manifest.6e0b0950e27a0bd9ce15abab81680e90.js"
+  "/william-setstatespear/precache-manifest.9f9ec119ca907172ba28d29bb51f2aa8.js"
 );
 
 self.addEventListener('message', (event) => {
